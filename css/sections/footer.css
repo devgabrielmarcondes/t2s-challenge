@@ -1,0 +1,24 @@
+.footer__content {
+  overflow: hidden;
+  background-color: var(--black-300);
+  color: var(--white-color);
+  padding: 24px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: flex-start;
+}
+
+.footer__social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.footer__social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}

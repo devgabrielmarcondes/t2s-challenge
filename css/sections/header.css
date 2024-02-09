@@ -1,0 +1,37 @@
+.header__nav {
+  overflow: hidden;
+  background-color: var(--black-200);
+  padding: 8px 7px 4px 28px;
+}
+
+.header__menu,
+.header__menu-mobile {
+  padding: 10px 12px;
+  flex: 1.236;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+
+  list-style: none;
+}
+
+.header__menu li {
+  color: var(--white-color);
+  text-transform: uppercase;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.header__menu li img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+.header__menu-mobile {
+  display: none;
+  gap: 20px;
+
+  position: relative;
+}
