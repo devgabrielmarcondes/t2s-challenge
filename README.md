@@ -10,7 +10,7 @@
 
 ## 🏆 Resultado
 
-**Confira aqui o resultado final: https://t2s-challenge.vercel.app**
+**Confira [aqui](https://t2s-challenge.vercel.app) o resultado final**
 
 O website foi dividido em algumas seções:
 
@@ -30,4 +30,4 @@ O website foi dividido em algumas seções:
 ## 🎨 Design
 
 - O design do website foi realizado via Figma.
-- Link da página estilizada: https://www.figma.com/file/sjcVgppzAtRHjajii0UCv2/T2S-Landing-Page?type=design&node-id=1%3A2&mode=design&t=cEcHZ2dEkFDXDaUU-1
+- O acesso à página de Design pode ser realizado [clicando aqui](https://www.figma.com/file/sjcVgppzAtRHjajii0UCv2/T2S-Landing-Page?type=design&node-id=113%3A48&mode=design&t=JLOXyvU4BwzG3ujv-1).
